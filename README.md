@@ -497,11 +497,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Version 2.0.0 (2025-11-27)
 - ✨ Added PCAPNG format support
-- 🐛 Fixed zsh installation issues
-- 📝 Enhanced documentation
 - 🎨 Complete rewrite with ImGui GUI
 - 🐧 Full Linux support
-- 🚀 2x performance improvement
 - 📦 PCAPng file format support
 
 ### Version 1.0 (2020)
