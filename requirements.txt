@@ -1,0 +1,5 @@
+imgui[glfw]
+pyopengl
+pycryptodome
+cryptography
+pyshark
