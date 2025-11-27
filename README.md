@@ -21,10 +21,6 @@ This tool decrypts 5G NAS payloads from PCAP files and writes the plaintext mess
 - 🖥️ **Modern ImGui Interface** - Hardware-accelerated, responsive GUI
 - 🐧 **Full Linux Support** - Cross-platform compatibility (Windows + Linux)
 - 📦 **PCAPNG Format** - Supports modern .pcapng files alongside .pcap and .cap
-- 🚀 **Better Performance** - 2x faster startup, more efficient processing
-- 🔍 **Enhanced File Dialogs** - Native file selection with format filters
-- 📝 **Comprehensive Logging** - Real-time log display with auto-scroll
-- 🛠️ **Auto-detection** - Automatic tshark path finding for both platforms
 
 ---
 
