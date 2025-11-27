@@ -74,8 +74,6 @@ pysnow               # SNOW-3G algorithm (optional)
 pyzuc                # ZUC algorithm (optional)
 ```
 
-For detailed installation, see [Installation Guide](#-installation).
-
 ---
 
 ## 🔧 Installation
@@ -108,20 +106,6 @@ install_windows.bat
 REM Run the tool
 run_windows.bat
 ```
-
-### Manual Installation
-
-See [MANUAL_INSTALL.md](MANUAL_INSTALL.md) for step-by-step instructions.
-
-### Troubleshooting
-
-Having issues? Check [INSTALL_TROUBLESHOOTING.md](INSTALL_TROUBLESHOOTING.md) for solutions to common problems including:
-- zsh bracket errors
-- TShark not found
-- OpenGL issues
-- Permission problems
-
----
 
 ## 📖 How It Works
 
